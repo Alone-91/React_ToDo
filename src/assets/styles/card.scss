@@ -1,0 +1,24 @@
+.card-container {
+  display: flex;
+  width: 100%;
+  max-width: 300px;
+  height: 153px;
+  flex: 1 0 200px;
+  background: #ffffff;
+  border: 1px solid #c5c5c5;
+  box-shadow: 0px 3px 0px rgba(151, 151, 151, 0.5);
+  border-radius: 10px;
+}
+
+.yellow-shadow {
+  box-shadow: 0px -50px 0px -28px rgb(242, 207, 80) inset;
+  -wekit-box-shadow: 0px -50px 0px -28px rgb(242, 207, 80) inset;
+  -moz-box-shadow: 0px -50px 0px -28px rgb(242, 207, 80) inset;
+  font-family: "Roboto";
+  display: flex;
+  font-style: normal;
+  font-size: 20px;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}

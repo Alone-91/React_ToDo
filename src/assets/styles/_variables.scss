@@ -1,0 +1,42 @@
+$body-font-stack: "Poppins", sans-serif;
+$body-background: #f0f8fe;
+$body-color: #333333;
+$body-font-size: 16px;
+$input-bg: #ffffff;
+$border-radius: 0.625rem;
+$placeholder-color: #9a9a9a;
+$input-font-size: 1rem;
+$link-color: #006e96;
+$copy-right: #9a9a9a;
+$input-border-color: #bfc1c4;
+$readonly-color: #9a9a9a;
+$readonly-bg-color: #ebebeb;
+
+/* Table Variables */
+$table-header-background: #0b3471;
+$table-header-font-color: #ffffff;
+$table-header-font-size: 16px;
+$table-body-background: #ffffff;
+$table-cell-font-size: 16px;
+$table-cell-padding-y: 30px;
+$table-cell-padding-x: 18px;
+$table-border-color: #bfc1c4;
+$table-border-width: 1px;
+$table-border-style: solid;
+$table-row-hover-bg: #f0f8fe;
+
+/*Button Variables*/
+$btn-link-color: #006e96;
+$btn-primary-color: #ffffff;
+$btn-primary-background-color: #006e96;
+
+/* Sidebar Variables */
+$sidebar-min-width: 84px;
+$sidebar-max-width: 310px;
+$header-height: 100px;
+
+// Display color
+$primary: #006e96;
+$disabled: #9a9a9a;
+$error: #e00932;
+$iconFill: #008abc;

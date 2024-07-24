@@ -1,0 +1,20 @@
+.form-check-inline {
+  .form-check-input {
+    border: 2px solid #bfc1c4;
+    height: 20px;
+    width: 20px;
+    margin-top: 2px;
+    // &:disabled {
+    //     background-color: #f4f4f4;
+    // }
+  }
+}
+
+textarea.form-control {
+  min-height: 257px;
+}
+
+textarea.normal-textarea {
+  min-height: 100px;
+  background-color: red;
+}
